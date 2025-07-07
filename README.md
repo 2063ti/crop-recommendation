@@ -1,6 +1,6 @@
 # Crop Recommendation System
 
-A machine learning-based web application that recommends optimal crops based on soil and environmental conditions using Streamlit.
+A web application that recommends optimal crops based on soil and environmental conditions using Streamlit.
 
 ## Project Overview
 
